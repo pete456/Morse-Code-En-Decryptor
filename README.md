@@ -2,7 +2,7 @@
 Encrypt English to Morse code, or decrypts Morse code to English
 
 ## Dependencies
-* Python < 3
+* Python >3
 
 ## Running
 chmod u+x main.py [options] [type] file
